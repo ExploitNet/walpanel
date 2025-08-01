@@ -72,12 +72,12 @@ Your support helps us continue development:
 
 We welcome contributions to Walpanel! If you would like to help improve the project, you can:
 
-- **Open an Issue:** Report bugs, suggest new features, or share your feedback by creating an [Issue](https://github.com/primeZdev/walpanel/issues).
+- **Open an Issue:** Report bugs, suggest new features, or share your feedback by creating an [Issue](https://github.com/ExploitNet/walpanel/issues).
 - **Submit a Pull Request:** If you want to contribute code, please fork the repository, apply your changes and submit a pull request to the develop branch.
 
 ## **📈 Project Activity**
 
-[![Stargazers over time](https://starchart.cc/primeZdev/walpanel.svg?variant=adaptive)](https://starchart.cc/primeZdev/walpanel)
+[![Stargazers over time](https://starchart.cc/ExploitNet/walpanel.svg?variant=adaptive)](https://starchart.cc/ExploitNet/walpanel)
 
-[![GitHub contributors](https://img.shields.io/github/contributors/primeZdev/walpanel?style=flat-square)](https://github.com/primeZdev/walpanel/graphs/contributors)
-[![Last Commit](https://img.shields.io/github/last-commit/primeZdev/walpanel?style=flat-square)](https://github.com/primeZdev/walpanel/commits/master)
+[![GitHub contributors](https://img.shields.io/github/contributors/ExploitNet/walpanel?style=flat-square)](https://github.com/ExploitNet/walpanel/graphs/contributors)
+[![Last Commit](https://img.shields.io/github/last-commit/ExploitNet/walpanel?style=flat-square)](https://github.com/ExploitNet/walpanel/commits/master)
