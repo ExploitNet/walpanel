@@ -4,11 +4,11 @@
   <p align="center"><b>Advanced Management Panel for X-UI Dealership Systems</b></p>
   
   <p align="center">
-    <a href="https://t.me/primez_dev">
+    <a href="https://t.me/ChExploitNet">
       <img src="https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram" alt="Telegram Channel">
     </a>
-    <a href="https://github.com/primeZdev/walpanel/releases">
-      <img src="https://img.shields.io/github/v/release/primeZdev/walpanel?style=for-the-badge&color=orange" alt="Latest Release">
+    <a href="https://github.com/ExploitNet/walpanel/releases">
+      <img src="https://img.shields.io/github/v/release/ExploitNet/walpanel?style=for-the-badge&color=orange" alt="Latest Release">
     </a>
       <a href="README.fa.md">
     <img src="https://img.shields.io/badge/README-PERSIAN-green?style=for-the-badge" alt="README">
@@ -63,7 +63,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/ExploitNet/walpanel/master/ins
 Your support helps us continue development:
 
 ⭐ **Star the repository**  
-💬 **Join our community**: [Telegram Group](https://t.me/primez_dev)  
+💬 **Join our community**: [Telegram Group](https://t.me/ChExploitNet)  
 💰 **Donate (TRON - TRC20)**: TWHESbRLWB9ZNoL9vcphY2r56qHeJLwtmZ
 
 ---
