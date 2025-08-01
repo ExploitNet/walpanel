@@ -2,7 +2,7 @@ import requests
 from datetime import datetime, timedelta
 
 
-ADS_URL = "https://raw.githubusercontent.com/primeZdev/walpanel/master/media/ads.json"
+ADS_URL = "https://raw.githubusercontent.com/ExploitNet/walpanel/master/media/ads.json"
 
 ads_cache = {
     "data": None,
