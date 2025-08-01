@@ -17,9 +17,9 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/primeZdev/walpanel?style=social" alt="Stars">
-  <img src="https://img.shields.io/github/forks/primeZdev/walpanel?style=social" alt="Forks">
-  <img src="https://img.shields.io/github/watchers/primeZdev/walpanel?style=social" alt="Watchers">
+  <img src="https://img.shields.io/github/stars/ExploitNet/walpanel?style=social" alt="Stars">
+  <img src="https://img.shields.io/github/forks/ExploitNet/walpanel?style=social" alt="Forks">
+  <img src="https://img.shields.io/github/watchers/ExploitNet/walpanel?style=social" alt="Watchers">
 </div>
 
 ---
