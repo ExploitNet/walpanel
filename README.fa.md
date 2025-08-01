@@ -54,7 +54,7 @@ _ **منابع**: حداقل منابع لازم برای اجرا 1 گیگ رم
 ## **📥 نصب و بروزرسانی**
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/primeZdev/walpanel/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/ExploitNet/walpanel/master/install.sh)
 ```
 
 ## **💖 حمایت از پروژه**
@@ -70,12 +70,12 @@ bash <(curl -Ls https://raw.githubusercontent.com/primeZdev/walpanel/master/inst
 ## 🤝 مشارکت
 
 ما از مشارکت شما در Walpanel استقبال می‌کنیم! اگر مایل به توسعه پروژه هستید، می‌توانید:   
-_ **Issue:** باگ‌ها رو گزارش بدید پیشنهاد ویژگی جدید بدید یا بازخورد خود را با ایجاد [Issue](https://github.com/primeZdev/walpanel/issues) به اشتراک بگذارید.   
+_ **Issue:** باگ‌ها رو گزارش بدید پیشنهاد ویژگی جدید بدید یا بازخورد خود را با ایجاد [Issue](https://github.com/ExploitNet/walpanel/issues) به اشتراک بگذارید.   
 _ **Pull Request:** اگر میخواید کد اضافه کنید، سورس رو فورک کنید، تغییرات خودتون رو اعمال کنید و یک Pull Request به برنچ develop ارسال کنید.
 
 ## **📈 فعالیت پروژه**
 
-[![Stargazers over time](https://starchart.cc/primeZdev/walpanel.svg?variant=adaptive)](https://starchart.cc/primeZdev/walpanel)
+[![Stargazers over time](https://starchart.cc/ExploitNet/walpanel.svg?variant=adaptive)](https://starchart.cc/ExploitNet/walpanel)
 
-[![GitHub contributors](https://img.shields.io/github/contributors/primeZdev/walpanel?style=flat-square)](https://github.com/primeZdev/walpanel/graphs/contributors)
-[![Last Commit](https://img.shields.io/github/last-commit/primeZdev/walpanel?style=flat-square)](https://github.com/primeZdev/walpanel/commits/master)
+[![GitHub contributors](https://img.shields.io/github/contributors/ExploitNet/walpanel?style=flat-square)](https://github.com/ExploitNet/walpanel/graphs/contributors)
+[![Last Commit](https://img.shields.io/github/last-commit/ExploitNet/walpanel?style=flat-square)](https://github.com/ExploitNet/walpanel/commits/master)
