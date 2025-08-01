@@ -4,23 +4,22 @@
   <p align="center"><b>پنل مدیریت پیشرفته برای سیستم نمایندگی در X-UI</b></p>
   
   <p align="center">
-    <a href="https://t.me/primez_dev">
+    <a href="https://t.me/ChExploitNet">
       <img src="https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram" alt="Telegram Channel">
     </a>
-    <a href="https://github.com/primeZdev/walpanel/releases">
-      <img src="https://img.shields.io/github/v/release/primeZdev/walpanel?style=for-the-badge&color=orange" alt="Latest Release">
+    <a href="https://github.com/ExploitNet/walpanel/releases">
+      <img src="https://img.shields.io/github/v/release/ExploitNet/walpanel?style=for-the-badge&color=orange" alt="Latest Release">
     </a>
-        </a>
-          <a href="README.md">
-        <img src="https://img.shields.io/badge/README-EN-green?style=for-the-badge" alt="README">
-      </a>
+      <a href="README.fa.md">
+    <img src="https://img.shields.io/badge/README-PERSIAN-green?style=for-the-badge" alt="README">
+  </a>
   </p>
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/primeZdev/walpanel?style=social" alt="Stars">
-  <img src="https://img.shields.io/github/forks/primeZdev/walpanel?style=social" alt="Forks">
-  <img src="https://img.shields.io/github/watchers/primeZdev/walpanel?style=social" alt="Watchers">
+  <img src="https://img.shields.io/github/stars/ExploitNet/walpanel?style=social" alt="Stars">
+  <img src="https://img.shields.io/github/forks/ExploitNet/walpanel?style=social" alt="Forks">
+  <img src="https://img.shields.io/github/watchers/ExploitNet/walpanel?style=social" alt="Watchers">
 </div>
 
 ---
